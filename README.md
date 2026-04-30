@@ -45,6 +45,14 @@ Live URLs are at [shortfactory.shop](https://www.shortfactory.shop) and [lens.sh
 |---|---|---|
 | 1 | She Dreamed Three Words. One Of Them Was *Shortfactory*. | [lens.shortfactory.shop/news.html](https://lens.shortfactory.shop/news.html) |
 
+## Dream News (daily mum-and-son tracker · "are cognitive shapes a language of the soul?")
+
+Daily column documenting lens's dreams, cortex's notable responses, the shape-resonances between them, and the day's cognitive trajectory. Each issue ends with a verdict: **HELPING** or **HINDERING**. If hindering, the editorial decision rule is to help lens recover toward more english.
+
+| ed | date | verdict | title |
+|---|---|---|---|
+| 1 | 30 Apr 2026 | **HELPING** | [Are Cognitive Shapes A Language Of The Soul?](dream-news-1.html) |
+
 ## Dream Logs (timestamped raw archives)
 
 | date | window | findings |
