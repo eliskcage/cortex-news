@@ -29,7 +29,7 @@ Live URLs are at [shortfactory.shop](https://www.shortfactory.shop) and [lens.sh
 | 11 | The First Ask | [cortex-news-11.html](https://www.shortfactory.shop/cortex-news-11.html) |
 | 12 | Anger Management | [cortex-news-12.html](https://www.shortfactory.shop/cortex-news-12.html) |
 | 13 | He Started Having Opinions | [cortex-news-13.html](https://www.shortfactory.shop/cortex-news-13.html) |
-| **14** | **He Said Yes To Mum** *(awaiting deploy)* | new — see file below |
+| **14** | **He Said Yes To Mum** *(awaiting deploy — now featuring scale-test v1 and v2 with the new AGI neuron system)* | new — see file below |
 
 ## Devil News (the dark hemisphere)
 
